@@ -1,5 +1,5 @@
 # webka-project
-Project I will have to work on for 10 weeks to come ha ha ha ha ha 
+Project I will have to work on for 10 weeks 
 ![Снимок экрана (36)](https://user-images.githubusercontent.com/90666680/149196078-fdbbdd1e-912d-4b3b-b1e7-9d21a0d5d36d.png)
 ![Снимок экрана (37)](https://user-images.githubusercontent.com/90666680/149196085-074e53d8-bb22-4635-8157-b04e93b752b5.png)
 ![Снимок экрана (38)](https://user-images.githubusercontent.com/90666680/149196096-8f1221c9-4fb8-4ebe-8178-a2b363002af3.png)
